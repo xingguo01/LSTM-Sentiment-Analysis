@@ -1,5 +1,5 @@
 
-#Added LSTM_Sentiment.py with TensorFlow 2.X
+# Added LSTM_Sentiment.py with TensorFlow 2.X
 
 
 # Sentiment Analysis with LSTMs
